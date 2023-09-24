@@ -1,2 +1,2 @@
-# PhishSleuth-API
-This is server side code for our project PhishSleuth. It contains flask server code and some web scraping code.
+# PhishGuard-API
+This is server side code for our project PhishGuard. It contains flask server code and some web scraping code.
